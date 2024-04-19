@@ -27,7 +27,6 @@ pygments
 pyparsing
 pyside2
 olefile
-mayavi
 cycler
 envisage
 future
